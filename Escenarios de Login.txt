@@ -1,0 +1,9 @@
+ESCENARIOS DE PRUEBA LOGIN
+
+1. Probar sin datos en correo y contraseña
+2. Enviar correo sin @
+3. Sin datos de correo 
+4. con caracteres en el correo
+5. agregando mas datos en la dirreccion
+6  con correo correcto y contraseña erronea
+7. happy Path
